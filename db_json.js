@@ -143,13 +143,7 @@
             "name": "飘零资源",
             "api": "https://p2100.net/api.php/provide/vod",
             "active": true
-        },
-        {
-            "key": "aqyzy",
-            "name": "爱奇艺",
-            "api": "https://iqiyizyapi.com/api.php/provide/vod",
-            "active": true
-        },
+        },       
         {
             "key": "yzzy",
             "name": "优质资源",
