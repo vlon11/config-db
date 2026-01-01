@@ -13,7 +13,7 @@
         "baseUrl": "https://155api.com/api.php/provide/vod",
         "group": "adult",
         "enabled": true,
-        "priority": 2
+        "priority": 1
     },
     {
         "id": "lsb",
@@ -21,7 +21,7 @@
         "baseUrl": "https://apilsbzy1.com/api.php/provide/vod",
         "group": "adult",
         "enabled": true,
-        "priority": 3
+        "priority":1
     },
     {
         "id": "yutu",
@@ -29,7 +29,7 @@
         "baseUrl": "https://yutuzy10.com/api.php/provide/vod",
         "group": "adult",
         "enabled": true,
-        "priority": 4
+        "priority": 2
     },
     {
         "id": "msnii",
@@ -37,7 +37,7 @@
         "baseUrl": "https://www.msnii.com/api/json.php",
         "group": "adult",
         "enabled": true,
-        "priority": 5
+        "priority": 2
     },
     {
         "id": "xrbsp",
@@ -45,7 +45,7 @@
         "baseUrl": "https://www.xrbsp.com/api/json.php",
         "group": "adult",
         "enabled": true,
-        "priority": 6
+        "priority": 2
     },
     {
         "id": "gdlsp",
@@ -53,7 +53,7 @@
         "baseUrl": "https://www.gdlsp.com/api/json.php",
         "group": "adult",
         "enabled": true,
-        "priority": 7
+        "priority": 1
     },
     {
         "id": "kxgav",
@@ -61,7 +61,7 @@
         "baseUrl": "https://www.kxgav.com/api/json.php",
         "group": "adult",
         "enabled": true,
-        "priority": 8
+        "priority": 1
     },
     {
         "id": "pgxdy",
@@ -69,7 +69,7 @@
         "baseUrl": "https://www.pgxdy.com/api/json.php",
         "group": "adult",
         "enabled": true,
-        "priority": 9
+        "priority": 2
     },
     {
         "id": "baiwan",
@@ -77,7 +77,7 @@
         "baseUrl": "https://api.bwzyz.com/api.php/provide/vod",
         "group": "adult",
         "enabled": true,
-        "priority": 10
+        "priority": 2
     },
     {
         "id": "naixiang",
@@ -85,6 +85,6 @@
         "baseUrl": "https://Naixxzy.com/api.php/provide/vod",
         "group": "adult",
         "enabled": true,
-        "priority": 11
+        "priority": 2
     },
 ]
