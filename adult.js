@@ -6,30 +6,14 @@
         "group": "adult",
         "enabled": true,
         "priority": 1
-    },
-    {
-        "id": "ck",
-        "name": "CK",
-        "baseUrl": "https://www.ckzy1.com/api.php/provide/vod",
-        "group": "adult",
-        "enabled": true,
-        "priority": 2
-    },
-    {
-        "id": "jkun",
-        "name": "jkun",
-        "baseUrl": "https://jkunzyapi.com/api.php/provide/vod",
-        "group": "adult",
-        "enabled": true,
-        "priority": 3
-    },
+    },    
     {
         "id": "155",
         "name": "155",
         "baseUrl": "https://155api.com/api.php/provide/vod",
         "group": "adult",
         "enabled": true,
-        "priority": 4
+        "priority": 2
     },
     {
         "id": "lsb",
@@ -37,15 +21,7 @@
         "baseUrl": "https://apilsbzy1.com/api.php/provide/vod",
         "group": "adult",
         "enabled": true,
-        "priority": 5
-    },
-    {
-        "id": "hsck",
-        "name": "黄色仓库",
-        "baseUrl": "https://hsckzy.vip/api.php/provide/vod",
-        "group": "adult",
-        "enabled": true,
-        "priority": 6
+        "priority": 3
     },
     {
         "id": "yutu",
@@ -53,7 +29,7 @@
         "baseUrl": "https://yutuzy10.com/api.php/provide/vod",
         "group": "adult",
         "enabled": true,
-        "priority": 7
+        "priority": 4
     },
     {
         "id": "msnii",
@@ -61,7 +37,7 @@
         "baseUrl": "https://www.msnii.com/api/json.php",
         "group": "adult",
         "enabled": true,
-        "priority": 8
+        "priority": 5
     },
     {
         "id": "xrbsp",
@@ -69,7 +45,7 @@
         "baseUrl": "https://www.xrbsp.com/api/json.php",
         "group": "adult",
         "enabled": true,
-        "priority": 9
+        "priority": 6
     },
     {
         "id": "gdlsp",
@@ -77,7 +53,7 @@
         "baseUrl": "https://www.gdlsp.com/api/json.php",
         "group": "adult",
         "enabled": true,
-        "priority": 10
+        "priority": 7
     },
     {
         "id": "kxgav",
@@ -85,7 +61,7 @@
         "baseUrl": "https://www.kxgav.com/api/json.php",
         "group": "adult",
         "enabled": true,
-        "priority": 11
+        "priority": 8
     },
     {
         "id": "pgxdy",
@@ -93,7 +69,7 @@
         "baseUrl": "https://www.pgxdy.com/api/json.php",
         "group": "adult",
         "enabled": true,
-        "priority": 12
+        "priority": 9
     },
     {
         "id": "baiwan",
@@ -101,23 +77,7 @@
         "baseUrl": "https://api.bwzyz.com/api.php/provide/vod",
         "group": "adult",
         "enabled": true,
-        "priority": 13
-    },
-    {
-        "id": "madou",
-        "name": "91麻豆",
-        "baseUrl": "https://91md.me/api.php/provide/vod",
-        "group": "adult",
-        "enabled": true,
-        "priority": 14
-    },
-    {
-        "id": "aosika",
-        "name": "奥斯卡资源",
-        "baseUrl": "https://aosikazy.com/api.php/provide/vod",
-        "group": "adult",
-        "enabled": true,
-        "priority": 15
+        "priority": 10
     },
     {
         "id": "naixiang",
@@ -125,54 +85,6 @@
         "baseUrl": "https://Naixxzy.com/api.php/provide/vod",
         "group": "adult",
         "enabled": true,
-        "priority": 16
+        "priority": 11
     },
-    {
-        "id": "senlin",
-        "name": "森林资源",
-        "baseUrl": "https://slapibf.com/api.php/provide/vod",
-        "group": "adult",
-        "enabled": true,
-        "priority": 17
-    },
-    {
-        "id": "fanhao",
-        "name": "番号资源",
-        "baseUrl": "http://fhapi9.com/api.php/provide/vod",
-        "group": "adult",
-        "enabled": true,
-        "priority": 18
-    },
-    {
-        "id": "jingpin",
-        "name": "精品资源",
-        "baseUrl": "https://www.jingpinx.com/api.php/provide/vod",
-        "group": "adult",
-        "enabled": true,
-        "priority": 19
-    },
-    {
-        "id": "shayu",
-        "name": "鲨鱼资源",
-        "baseUrl": "https://shayuapi.com/api.php/provide/vod",
-        "group": "adult",
-        "enabled": true,
-        "priority": 20
-    },
-    {
-        "id": "xiaoji",
-        "name": "小鸡资源",
-        "baseUrl": "https://api.xiaojizy.live/provide/vod",
-        "group": "adult",
-        "enabled": true,
-        "priority": 21
-    },
-    {
-        "id": "xibao",
-        "name": "细胞采集",
-        "baseUrl": "https://www.xxibaozyw.com/api.php/provide/vod",
-        "group": "adult",
-        "enabled": true,
-        "priority": 22
-    }
 ]
