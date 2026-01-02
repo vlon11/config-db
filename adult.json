@@ -3,7 +3,7 @@
         "id": "leba",
         "name": "乐播资源",
         "baseUrl": "https://lbapi9.com/api.php/provide/vod",
-        "group": "adult",
+        "group": "normal",
         "enabled": true,
         "priority": "1"
     },
@@ -27,7 +27,7 @@
         "id": "155",
         "name": "155",
         "baseUrl": "https://155api.com/api.php/provide/vod",
-        "group": "adult",
+        "group": "normal",
         "enabled": true,
         "priority": "4"
     },
