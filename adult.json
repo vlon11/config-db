@@ -5,7 +5,7 @@
         "baseUrl": "https://lbapi9.com/api.php/provide/vod",
         "group": "adult",
         "enabled": true,
-        "priority": "1"
+        "priority": "3"
     },
     {
         "id": "ck",
@@ -13,7 +13,7 @@
         "baseUrl": "https://www.ckzy1.com/api.php/provide/vod",
         "group": "adult",
         "enabled": true,
-        "priority": "2"
+        "priority": "3"
     },
     {
         "id": "jkun",
@@ -21,7 +21,7 @@
         "baseUrl": "https://jkunzyapi.com/api.php/provide/vod",
         "group": "adult",
         "enabled": true,
-        "priority": "3"
+        "priority": "4"
     },
     {
         "id": "155",
@@ -29,7 +29,7 @@
         "baseUrl": "https://155api.com/api.php/provide/vod",
         "group": "adult",
         "enabled": true,
-        "priority": "4"
+        "priority": "1"
     },
     {
         "id": "lsb",
@@ -37,7 +37,7 @@
         "baseUrl": "https://apilsbzy1.com/api.php/provide/vod",
         "group": "adult",
         "enabled": true,
-        "priority": "5"
+        "priority": "2"
     },
     {
         "id": "hsck",
